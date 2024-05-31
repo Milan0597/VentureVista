@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VentureVista - Join as a Venture Scout</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>VentureVista</h1>
+        <h2>Join as a Venture Scout (m/w/d)!</h2>
+    </header>
+    <section id="intro">
+        <p>Are you deeply embedded in your local startup scene? Do you have a knack for spotting the next big thing before anyone else?</p>
+        <p>Join VentureVista, the ultimate platform for Venture Scouts and leading VCs in Europe. Help innovative startups get the funding they need and earn rewards for your keen eye!</p>
+    </section>
+    <section id="benefits">
+        <h3>Why Join VentureVista?</h3>
+        <ul>
+            <li>💡 Be a Catalyst for Innovation</li>
+            <li>💼 Network with Leading VCs</li>
+            <li>💰 Earn Attractive Rewards</li>
+            <li>⏰ Flexible and Hassle-Free</li>
+        </ul>
+    </section>
+    <section id="how-it-works">
+        <h3>How It Works</h3>
+        <ol>
+            <li>Scout Promising Startups</li>
+            <li>Submit Your Scouting Reports</li>
+            <li>We Connect Startups to VCs</li>
+            <li>Earn Your Reward</li>
+        </ol>
+    </section>
+    <section id="requirements">
+        <h3>What We’re Looking For</h3>
+        <ul>
+            <li>Passion for Innovation</li>
+            <li>Local Insight</li>
+            <li>Network Savvy</li>
+            <li>Detail-Oriented</li>
+        </ul>
+    </section>
+    <section id="cta">
+        <h3>Ready to Get Started?</h3>
+        <p>Join a community of like-minded scouts and start making a difference today!</p>
+        <p><a href="https://o588s8snhwb.typeform.com/to/pOCF03Ft" target="_blank">Submit your scouted startups here</a></p>
+        <p>For any questions or more information, contact me via <a href="https://www.linkedin.com/in/milan-wurth-09a735166/" target="_blank">LinkedIn</a>.</p>
+    </section>
+    <footer>
+        <p>VentureVista - Bridging Talent and Capital</p>
+        <p>
+            <a href="https://earlybird.com/" target="_blank">Earlybird</a> |
+            <a href="https://www.project-a.com/" target="_blank">Project A</a> |
+            <a href="https://capnamic.com/" target="_blank">Capnamic</a> |
+            <a href="https://www.speedinvest.com/" target="_blank">Speedinvest</a> |
+            <a href="https://www.plugandplaytechcenter.com/" target="_blank">Plug and Play</a> |
+            <a href="https://cavalry.vc/" target="_blank">Cavalry</a>
+        </p>
+    </footer>
+</body>
+</html>
